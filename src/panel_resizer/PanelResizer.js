@@ -16,7 +16,7 @@ class PanelResizer extends Component {
   render() {
     return (
       <div>
-       
+       <Panel/>
       </div>
     );
   }
